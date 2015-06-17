@@ -164,6 +164,7 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 * http://www.phrack.org/issues.html?id=13&issue=63
 * https://github.com/obfuscator-llvm/obfuscator/wiki (https://github.com/obfuscator-llvm/obfuscator/tree/clang-425.0.24)
 * Binary code obfuscation through C++ template metaprogramming - https://www.cisuc.uc.pt/publication/showfile?fn=1357250736_metaobfv3.pdf
+* http://jacobtorrey.com/HARES-WP.pdf
 
 ## Hidden Computation
 * http://mainisusuallyafunction.blogspot.com.es/2014/02/x86-is-turing-complete-with-no-registers.html
